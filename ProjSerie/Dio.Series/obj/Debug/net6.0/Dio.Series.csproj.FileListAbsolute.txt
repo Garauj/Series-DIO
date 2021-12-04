@@ -1,0 +1,15 @@
+D:\estudos\DIO\Git\c#\ProjSerie\Dio.Series\bin\Debug\net6.0\Dio.Series.exe
+D:\estudos\DIO\Git\c#\ProjSerie\Dio.Series\bin\Debug\net6.0\Dio.Series.deps.json
+D:\estudos\DIO\Git\c#\ProjSerie\Dio.Series\bin\Debug\net6.0\Dio.Series.runtimeconfig.json
+D:\estudos\DIO\Git\c#\ProjSerie\Dio.Series\bin\Debug\net6.0\Dio.Series.dll
+D:\estudos\DIO\Git\c#\ProjSerie\Dio.Series\bin\Debug\net6.0\ref\Dio.Series.dll
+D:\estudos\DIO\Git\c#\ProjSerie\Dio.Series\bin\Debug\net6.0\Dio.Series.pdb
+D:\estudos\DIO\Git\c#\ProjSerie\Dio.Series\obj\Debug\net6.0\Dio.Series.csproj.AssemblyReference.cache
+D:\estudos\DIO\Git\c#\ProjSerie\Dio.Series\obj\Debug\net6.0\Dio.Series.GeneratedMSBuildEditorConfig.editorconfig
+D:\estudos\DIO\Git\c#\ProjSerie\Dio.Series\obj\Debug\net6.0\Dio.Series.AssemblyInfoInputs.cache
+D:\estudos\DIO\Git\c#\ProjSerie\Dio.Series\obj\Debug\net6.0\Dio.Series.AssemblyInfo.cs
+D:\estudos\DIO\Git\c#\ProjSerie\Dio.Series\obj\Debug\net6.0\Dio.Series.csproj.CoreCompileInputs.cache
+D:\estudos\DIO\Git\c#\ProjSerie\Dio.Series\obj\Debug\net6.0\Dio.Series.dll
+D:\estudos\DIO\Git\c#\ProjSerie\Dio.Series\obj\Debug\net6.0\ref\Dio.Series.dll
+D:\estudos\DIO\Git\c#\ProjSerie\Dio.Series\obj\Debug\net6.0\Dio.Series.pdb
+D:\estudos\DIO\Git\c#\ProjSerie\Dio.Series\obj\Debug\net6.0\Dio.Series.genruntimeconfig.cache
